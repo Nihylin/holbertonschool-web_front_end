@@ -11,4 +11,6 @@
 /.vscode
 .DS_Store
 /CSS_advanced/index.html
-w3c_validator.py
+/html_advanced/w3c_validator.py
+/html_advanced/favicon.ico
+/html_advanced/favicon.png
